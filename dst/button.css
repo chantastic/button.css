@@ -1,0 +1,13 @@
+       .btn,
+.action-btn {
+  /* a-specific */
+  text-decoration: none;
+
+  /* button-specific */
+  border: 0;
+  background-color: transparent;
+}
+
+.action-btn {
+  background-color: blue;
+}
